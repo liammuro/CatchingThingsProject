@@ -17,6 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_fox_base","order":4,"path":"sprites/spr_fox_base/spr_fox_base.yy",},
     {"name":"obj_player_temp","order":1,"path":"objects/obj_player_temp/obj_player_temp.yy",},
+    {"name":"spr_unicorn_base","order":6,"path":"sprites/spr_unicorn_base/spr_unicorn_base.yy",},
+    {"name":"spr_cat_seashore","order":3,"path":"sprites/spr_cat_seashore/spr_cat_seashore.yy",},
+    {"name":"spr_cat_enby","order":1,"path":"sprites/spr_cat_enby/spr_cat_enby.yy",},
+    {"name":"spr_frog_base","order":5,"path":"sprites/spr_frog_base/spr_frog_base.yy",},
+    {"name":"spr_cat_grey","order":2,"path":"sprites/spr_cat_grey/spr_cat_grey.yy",},
   ],
 }

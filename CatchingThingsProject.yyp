@@ -34,9 +34,15 @@
     "IDEVersion": "2023.6.0.89",
   },
   "resources": [
-    {"id":{"name":"spr_cat_base","path":"sprites/spr_cat_base/spr_cat_base.yy",},},
+    {"id":{"name":"spr_fox_base","path":"sprites/spr_fox_base/spr_fox_base.yy",},},
     {"id":{"name":"obj_player_temp","path":"objects/obj_player_temp/obj_player_temp.yy",},},
+    {"id":{"name":"spr_unicorn_base","path":"sprites/spr_unicorn_base/spr_unicorn_base.yy",},},
+    {"id":{"name":"spr_cat_seashore","path":"sprites/spr_cat_seashore/spr_cat_seashore.yy",},},
+    {"id":{"name":"spr_cat_enby","path":"sprites/spr_cat_enby/spr_cat_enby.yy",},},
+    {"id":{"name":"spr_frog_base","path":"sprites/spr_frog_base/spr_frog_base.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"spr_cat_base1","path":"sprites/spr_cat_base1/spr_cat_base1.yy",},},
+    {"id":{"name":"spr_cat_grey","path":"sprites/spr_cat_grey/spr_cat_grey.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
