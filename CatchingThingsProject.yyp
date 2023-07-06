@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"characters","folderPath":"folders/Sprites/characters.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -36,6 +37,9 @@
   "resources": [
     {"id":{"name":"spr_fox_base","path":"sprites/spr_fox_base/spr_fox_base.yy",},},
     {"id":{"name":"obj_player_temp","path":"objects/obj_player_temp/obj_player_temp.yy",},},
+    {"id":{"name":"spr_projectile","path":"sprites/spr_projectile/spr_projectile.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"spr_raindrop","path":"sprites/spr_raindrop/spr_raindrop.yy",},},
     {"id":{"name":"spr_unicorn_base","path":"sprites/spr_unicorn_base/spr_unicorn_base.yy",},},
     {"id":{"name":"spr_cat_seashore","path":"sprites/spr_cat_seashore/spr_cat_seashore.yy",},},
     {"id":{"name":"spr_cat_enby","path":"sprites/spr_cat_enby/spr_cat_enby.yy",},},
